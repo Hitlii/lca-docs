@@ -59,9 +59,6 @@ Bueno, hay que ser mas especificos, veamos el siguiente diagrama UML para tener 
 
 ### Physical Design 
 
-
-
-
 ## Why MongoDB?
 **We use MongoDB mainly for performance**, we think using Mongo for this project is ideal for the following reasons
 
@@ -73,6 +70,6 @@ Bueno, hay que ser mas especificos, veamos el siguiente diagrama UML para tener 
 For more information about why and when to use MongoDB, check out this 👉 [link](https://www.mongodb.com/why-use-mongodb)
 
 # References 📚 
-Up, C. (2020, 9 julio). Data Modeling Concepts in MongoDB Tutorial. Medium. [🔗](https://medium.com/@mjthakur413/data-modeling-concepts-in-mongodb-tutorial-codez-up-3b218c5aeb72)
+Up, C. (2020, 9 july). Data Modeling Concepts in MongoDB Tutorial. Medium. [🔗](https://medium.com/@mjthakur413/data-modeling-concepts-in-mongodb-tutorial-codez-up-3b218c5aeb72)
 
 Shin, K. S., Hwang, C. H., & Jung, H. J. (2016). NoSQL database Design Using UML Conceptual Data Model Based on Peter Chen’s Framework.ripublication. [🔗](https://www.ripublication.com/ijaer17/ijaerv12n5_12.pdf )
